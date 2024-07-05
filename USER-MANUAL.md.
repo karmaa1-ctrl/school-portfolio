@@ -1,0 +1,23 @@
+Project Description
+Thriftee is a transformative solution designed to modernize thrift store operations by providing an exclusive online platform. This user-friendly application aims to bridge the gap between thrift store owners and a larger, digital-savvy customer base. 
+By leveraging features such as home, profile, shops, categorization, search filters, notifications, and place order, Thriftee enhances the shopping experience for customers and streamlines the sales process for store owners. 
+The project focuses on addressing the limitations of relying solely on social media for marketing and sales, thereby boosting visibility and profitability for thrift stores.
+
+Usage Instructions
+The Thriftee prototype showcases the application's main features and user flow. It includes a welcome screen with the Thriftee logo and slogan, a sign-up or log-in screen for account management, 
+and a home screen that serves as the central hub for navigation. Users can access their profile, search for products, view reviews, and add items to their cart. 
+The prototype demonstrates the seamless transition between browsing, selecting, and purchasing products, emphasizing user-friendly design and intuitive navigation to enhance the overall shopping experience.
+
+Main Screen: 
+The application design flow starts with a welcome screen, which serves as the entry point for users. From the welcome screen, users are directed to the sign-up page. 
+After completing the sign-up process, users are taken to the personal information input page, where they can provide additional details about themselves. 
+Finally, users are directed to the home page, which serves as the main interface for the application.
+
+Purchasing Order:
+After selecting items to purchase, users can add them to their cart. From the cart, users can review the order summary, which displays the items, quantities, and total cost. 
+Once the user is satisfied with the order summary, they can proceed to complete the order, which marks the final step in the purchasing process.
+
+Search Feature, Feedbacks & Reviews:
+The application's search feature allows users to search for content and view detailed information, including user reviews and ratings. Users can provide feedback on the content they have interacted with, 
+and this user-generated feedback is then aggregated and displayed as part of the search results.
+
